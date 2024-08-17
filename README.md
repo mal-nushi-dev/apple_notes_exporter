@@ -1,4 +1,4 @@
-# Apple_Notes_Exporter
+# Apple Notes Exporter
 
 ## Introduction
 
